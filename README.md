@@ -1,4 +1,4 @@
-![Vidly app](images/vidly.png)
+![Vidly app](images/vidly.PNG)
 
 ## Introduction
 
@@ -15,7 +15,7 @@ Please Note: There is no backend for the application so the movies list is store
 - axios
 - bootstrap
 - font-awesome
-- Lodash
+- lodash
 - prop-types
 
 ## Installation
